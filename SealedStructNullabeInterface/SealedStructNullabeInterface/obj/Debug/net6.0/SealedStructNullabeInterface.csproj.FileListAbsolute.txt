@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\bin\Debug\net6.0\SealedStructNullabeInterface.exe
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\bin\Debug\net6.0\SealedStructNullabeInterface.deps.json
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\bin\Debug\net6.0\SealedStructNullabeInterface.runtimeconfig.json
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\bin\Debug\net6.0\SealedStructNullabeInterface.dll
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\bin\Debug\net6.0\SealedStructNullabeInterface.pdb
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.dll
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\refint\SealedStructNullabeInterface.dll
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.pdb
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\SealedStructNullabeInterface.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\SealedStructNullabeInterface\SealedStructNullabeInterface\SealedStructNullabeInterface\obj\Debug\net6.0\ref\SealedStructNullabeInterface.dll
